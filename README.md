@@ -1,13 +1,13 @@
-Centralny Rejestr Umów
-======================
+Badania nad zwierzętami
+=======================
 
-Strona kampanii "Centralny Rejestr Umów" Stowarzyszenia Sieć Obywatelska Watchdog Polska.
+Strona kampanii "Badania nad zwierzętami" Stowarzyszenia Sieć Obywatelska Watchdog Polska.
 
 Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do potrzeb specyfiki kampanii. 
 
 ## Cel
 
-Celem jest przyjęcie przez Sejm poprawki o Centralnym Rejestrze Umów.
+Celem jest przyjęcie przez Sejm poprawek dotyczących wzmocnienia kontroli i jawności badań nad zwierzętami.
 
 ## Rozwój
 

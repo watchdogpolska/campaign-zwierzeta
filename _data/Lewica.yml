@@ -114,7 +114,7 @@ websites:
 - club_long: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna
     Roberta Biedronia)
   club_short: Lewica
-  done: true
+  done: false
   emails:
   - katarzyna.ueberhan@sejm.pl
   - biuro.poselskie@ueberhan.pl
@@ -127,7 +127,7 @@ websites:
   phone_numbers:
   - '505715618'
   pos: '406.'
-  done: true
+  done: false
   twitter_links:
   - KUeberhan
 - club_long: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna
@@ -379,7 +379,7 @@ websites:
   instagram_links:
   - https://www.instagram.com/_wandanowicka/
   name: Wanda Nowicka
-  done: true
+  done: false
   phone_numbers:
   - '661609506'
   pos: '268.'
@@ -453,7 +453,7 @@ websites:
   - MarcinKulasek
 - club_long: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna
     Roberta Biedronia)
-  done: true
+  done: false
   club_short: Lewica
   emails:
   - anita.kucharska-dziedzic@sejm.pl
@@ -527,7 +527,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/Kopiec.Maciej
   gender: M
-  done: true
+  done: false
   instagram_links:
   - https://www.instagram.com/kopiec.maciej/
   name: Maciej Kopiec
@@ -641,7 +641,7 @@ websites:
   - KGawkowski
 - club_long: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna
     Roberta Biedronia)
-  done: true
+  done: false
   club_short: Lewica
   emails:
   - monika.falej@sejm.pl

@@ -80,7 +80,7 @@ websites:
   - hennigkloska
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
-  done: true
+  done: false
   emails:
   - michal.gramatyka@sejm.pl
   - biuro@gramatyka.info

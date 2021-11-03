@@ -31,7 +31,7 @@ websites:
   - styszka
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
-  done: true
+  done: false
   emails:
   - jaroslaw.sachajko@sejm.pl
   - posel.jaroslaw.sachajko@gmail.com

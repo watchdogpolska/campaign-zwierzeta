@@ -2014,7 +2014,7 @@ websites:
   twitter_links:
   - krajewskiwies
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
-  done: true
+  done: false
   club_short: PiS
   emails:
   - jaroslaw.krajewski@sejm.pl
