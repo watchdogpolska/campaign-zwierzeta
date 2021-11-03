@@ -1,9 +1,9 @@
-Badania nad zwierzętami
-=======================
+Jawność sprzyja zwierzętom!
+===========================
 
-Strona kampanii "Badania nad zwierzętami" Stowarzyszenia Sieć Obywatelska Watchdog Polska.
+Strona kampanii "Jawność sprzyja zwierzętom!" Stowarzyszenia Sieć Obywatelska Watchdog Polska.
 
-Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do potrzeb specyfiki kampanii. 
+Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do potrzeb specyfiki kampanii.
 
 ## Cel
 
